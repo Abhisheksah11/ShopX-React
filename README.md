@@ -6,11 +6,11 @@ A fully responsive e-commerce application built with **React.js**. This project 
 
 | Home Page | Shopping Cart |
 |:---:|:---:|
-| <img src="./Pageview/home.png" width="450"> | <img src="./Pageview/cart.png" width="450"> |
+| <img src="Pageview/home.png" width="450"> | <img src="Pageview/cart.png" width="450"> |
 
 | Product Catalog (Filtered) |
 |:---:|
-| <img src="./Pageview/homepage.png" width="915"> |
+| <img src="Pageview/homepage.png" width="915"> |
 
 ## ✨ Key Features
 * **Global State Management:** Uses React Context API to manage the cart across all pages.

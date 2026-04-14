@@ -4,13 +4,13 @@ A fully responsive e-commerce application built with **React.js**. This project 
 
 ## 📸 Screenshots
 
-| Home Page | Search & Filter |
+| Home Page | Shopping Cart |
 |:---:|:---:|
-| <img src="./screenshots/home.png" width="400"> | <img src="./screenshots/homepage.png" width="400"> |
+| <img src="./Pageview/home.png" width="450"> | <img src="./Pageview/cart.png" width="450"> |
 
-| Cart View | Mobile Responsive |
-|:---:|:---:|
-| <img src="./screenshots/cart.png" width="400"> | <img src="./screenshots/home.png" width="200"> |
+| Product Catalog (Filtered) |
+|:---:|
+| <img src="./Pageview/homepage.png" width="915"> |
 
 ## ✨ Key Features
 * **Global State Management:** Uses React Context API to manage the cart across all pages.
@@ -24,6 +24,7 @@ A fully responsive e-commerce application built with **React.js**. This project 
 * **Styling:** CSS3 (Flexbox/Grid)
 
 ## ⚙️ How to Run Locally
-1. Clone the repository:
+
+1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Abhisheksah11/ShopX-React.git](https://github.com/Abhisheksah11/ShopX-React.git)
